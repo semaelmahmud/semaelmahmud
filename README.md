@@ -13,9 +13,9 @@
   <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-D7B8F3?style=for-the-badge" />
 </div>
 
-<p align="center">🎀 🦋 🌸</p>
+<p align="center">🎀 🦋 🌸 🦋 🎀</p>
 
-# Hi, I'm Sema 👋
+# 🎀 Hi, I'm Sema 👋
 
 Software Engineering student at Fırat University, Faculty of Technology.
 I'm working towards becoming an AI engineer.
@@ -35,18 +35,20 @@ I'm working towards becoming an AI engineer.
 </div>
 
 ## 🌱 Currently Learning
-- Python (just getting started)
-- Machine Learning basics
-- Databases & SQL
+- 🌸 Python (just getting started)
+- 🌸 Machine Learning basics
+- 🌸 Databases & SQL
 
 ## 🎯 Goals
-- Complete my summer internship and learn from real projects
-- Build small AI/ML projects and share them here
-- Improve my skills in Python and data analysis
+- 🎀 Complete my summer internship and learn from real projects
+- 🎀 Build small AI/ML projects and share them here
+- 🎀 Improve my skills in Python and data analysis
 
 ## 📫 Contact
 - 💗 LinkedIn: [sema-elmahmud-eng](https://www.linkedin.com/in/sema-elmahmud-eng)
 - 🌸 Email: semaelmahmudeng.2007@gmail.com
+
+<p align="center">🦋 🌸 🎀 🌸 🦋</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=D7B8F3" alt="footer" />
