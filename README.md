@@ -1,10 +1,32 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blob&height=260&color=E8C5F0&text=Sema%20Elmahmud&fontSize=56&fontColor=6A4C93&desc=SOFTWARE%20ENGINEERING%20%7C%20AI&descSize=20&descAlignY=62" alt="Sema Elmahmud banner" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-F8BBD9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-D7B8F3?style=for-the-badge" />
+</div>
+
+---
+
 # Hi, I'm Sema 👋
 
-Software Engineering student at Fırat University, Faculty of Technology .
+Software Engineering student at Fırat University, Faculty of Technology.
 I'm working towards becoming an AI engineer.
 
 ## 💻 Languages & Tools
-`Java` `C#` `SQL` `Git` `GitHub`
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,mysql,git,github&theme=light" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-Intermediate-F8BBD9?style=flat-square&labelColor=E8D5F5" />
+  <img src="https://img.shields.io/badge/C%23-Intermediate-D7B8F3?style=flat-square&labelColor=E8D5F5" />
+  <img src="https://img.shields.io/badge/Python-Beginner-F8BBD9?style=flat-square&labelColor=E8D5F5" />
+</div>
 
 ## 🌱 Currently Learning
 - Python (just getting started)
