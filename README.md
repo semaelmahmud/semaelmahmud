@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=220&color=F8BBD9&text=Sema%20Elmahmud&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20and%20AI&descSize=18&descAlignY=60" alt="Sema Elmahmud banner" />
 </div>
 
-<p align="center">🎀 🦋 🌸 💗 🌸 🦋 🎀</p>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=D86BAE&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%F0%9F%8C%B8;Aspiring+AI+Engineer+%F0%9F%A6%8B;Learning+Java%2C+C%23+and+Python+%E2%9C%A8" alt="Typing text" />
 </div>
@@ -11,18 +9,18 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%80%20SOFTWARE%20ENGINEERING-F8BBD9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%F0%9F%A6%8B%20ARTIFICIAL%20INTELLIGENCE-D7B8F3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-F8BBD9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-D7B8F3?style=for-the-badge" />
 </div>
 
-<p align="center">🦋 🌸 🎀 🌸 🦋</p>
+<p align="center">🎀 🦋 🌸</p>
 
-# 🎀 Hi, I'm Sema 👋
+# Hi, I'm Sema 👋
 
-🌷 Software Engineering student at Fırat University, Faculty of Technology.
-🦋 I'm working towards becoming an AI engineer.
+Software Engineering student at Fırat University, Faculty of Technology.
+I'm working towards becoming an AI engineer.
 
-## 💻 Languages & Tools 🌸
+## 💻 Languages & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,cs,py,mysql,git,github,vscode,visualstudio&theme=light" />
@@ -36,23 +34,19 @@
   <img src="https://img.shields.io/badge/Python-Beginner-F8BBD9?style=flat-square&labelColor=E8D5F5" />
 </div>
 
-<p align="center">🌸 ✨ 🎀 ✨ 🌸</p>
+## 🌱 Currently Learning
+- Python (just getting started)
+- Machine Learning basics
+- Databases & SQL
 
-## 🌱 Currently Learning 🦋
-- 🎀 Python (just getting started)
-- 🌸 Machine Learning basics
-- 💗 Databases & SQL
+## 🎯 Goals
+- Complete my summer internship and learn from real projects
+- Build small AI/ML projects and share them here
+- Improve my skills in Python and data analysis
 
-## 🎯 Goals 💫
-- 🎀 Complete my summer internship and learn from real projects
-- 🌸 Build small AI/ML projects and share them here
-- 🦋 Improve my skills in Python and data analysis
-
-## 📫 Contact 💌
-- 💼 LinkedIn: [sema-elmahmud-eng](https://www.linkedin.com/in/sema-elmahmud-eng)
-- 💗 Email: semaelmahmudeng.2007@gmail.com
-
-<p align="center">🎀 🦋 🌸 💗 🌸 🦋 🎀</p>
+## 📫 Contact
+- 💗 LinkedIn: [sema-elmahmud-eng](https://www.linkedin.com/in/sema-elmahmud-eng)
+- 🌸 Email: semaelmahmudeng.2007@gmail.com
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=D7B8F3" alt="footer" />
