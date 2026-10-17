@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=220&color=F4A6CD&text=Sema%20Elmahmud&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20and%20AI&descSize=18&descAlignY=60" alt="Sema Elmahmud banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=220&color=F8BBD9&text=Sema%20Elmahmud&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20and%20AI&descSize=18&descAlignY=60" alt="Sema Elmahmud banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D86BAE&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%F0%9F%8C%B8;Aspiring+AI+Engineer+%F0%9F%A6%8B;Learning+Java%2C+C%23+and+Python+%E2%9C%A8" alt="Typing text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=D86BAE&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%F0%9F%8C%B8;Aspiring+AI+Engineer+%F0%9F%A6%8B;Learning+Java%2C+C%23+and+Python+%E2%9C%A8" alt="Typing text" />
 </div>
 
 <br>
