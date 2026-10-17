@@ -1,13 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blob&height=300&color=C9A7F0&text=Sema%20Elmahmud&fontSize=60&fontColor=ffffff&desc=SOFTWARE%20ENGINEERING%20%7C%20ARTIFICIAL%20INTELLIGENCE&descSize=20&descAlignY=62" alt="Sema Elmahmud banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=220&color=F4A6CD&text=Sema%20Elmahmud&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20and%20AI&descSize=18&descAlignY=60" alt="Sema Elmahmud banner" />
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D86BAE&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%F0%9F%8C%B8;Aspiring+AI+Engineer+%F0%9F%A6%8B;Learning+Java%2C+C%23+and+Python+%E2%9C%A8" alt="Typing text" />
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-F8BBD9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-D7B8F3?style=for-the-badge" />
 </div>
 
----
+<p align="center">🦋 🌸 🎀 🌸 🦋</p>
 
 # Hi, I'm Sema 👋
 
@@ -41,3 +47,7 @@ I'm working towards becoming an AI engineer.
 ## 📫 Contact
 - LinkedIn: [sema-elmahmud-eng](https://www.linkedin.com/in/sema-elmahmud-eng)
 - Email: semaelmahmudeng.2007@gmail.com
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=D7B8F3" alt="footer" />
+</div>
