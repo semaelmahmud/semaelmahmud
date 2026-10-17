@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sema 👋
 
-<!--
-**semaelmahmud/semaelmahmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at Fırat University, Faculty of Technology .
+I'm working towards becoming an AI engineer.
 
-Here are some ideas to get you started:
+## 💻 Languages & Tools
+`Java` `C#` `SQL` `Git` `GitHub`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Python (just getting started)
+- Machine Learning basics
+- Databases & SQL
+
+## 🎯 Goals
+- Complete my summer internship and learn from real projects
+- Build small AI/ML projects and share them here
+- Improve my skills in Python and data analysis
+
+## 📫 Contact
+- LinkedIn: [sema-elmahmud-eng](https://www.linkedin.com/in/sema-elmahmud-eng)
+- Email: semaelmahmudeng.2007@gmail.com
