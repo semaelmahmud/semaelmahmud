@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blob&height=260&color=E8C5F0&text=Sema%20Elmahmud&fontSize=56&fontColor=6A4C93&desc=SOFTWARE%20ENGINEERING%20%7C%20AI&descSize=20&descAlignY=62" alt="Sema Elmahmud banner" />
+  <img src="https://capsule-render.vercel.app/api?type=blob&height=300&color=C9A7F0&text=Sema%20Elmahmud&fontSize=60&fontColor=ffffff&desc=SOFTWARE%20ENGINEERING%20%7C%20ARTIFICIAL%20INTELLIGENCE&descSize=20&descAlignY=62" alt="Sema Elmahmud banner" />
 </div>
 
 <div align="center">
