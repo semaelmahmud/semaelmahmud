@@ -45,6 +45,7 @@ I'm working towards becoming an AI engineer.
 - 🎀 Improve my skills in Python and data analysis
 
 ## 📫 Contact
+- 🌐 Website: [semaelmahmud.github.io](https://semaelmahmud.github.io)
 - 💗 LinkedIn: [sema-elmahmud-eng](https://www.linkedin.com/in/sema-elmahmud-eng)
 - 🌸 Email: semaelmahmudeng.2007@gmail.com
 
